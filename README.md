@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there! I'm Mauricio 👋
 
-<!--
-**nmauudev/nmauudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science and Machine Learning enthusiast based in Argentina. I enjoy uncovering patterns in data and exploring the frontiers of science fiction. When I’m not optimizing models, you’ll likely find me preparing some mate.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Recent Projects
+CLV Forecasting: Developing an end-to-end Customer Lifetime Value prediction model (from feature engineering to MLOps).
 
-Here are some ideas to get you started:
+freeCodeCamp Projects: Completing certifications in Data Visualization and Time Series Forecasting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Retro Computing: Experimenting with vintage hardware (IBM ThinkCentre) and lightweight Linux distributions.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tech Stack & Tools
+Languages: Python (Pandas, NumPy, Scikit-learn), SQL.
+
+Data Viz: Matplotlib, Seaborn, Plotly.
+
+Tools & Environment: Jupyter Notebooks, Git, Linux, MLOps workflows.
